@@ -1,0 +1,5 @@
+Team name:
+Name 1:Yun Kuan, Su
+Name 2:Nicolas Schmitt
+
+Score after running 'python main.py --score':500.575167
